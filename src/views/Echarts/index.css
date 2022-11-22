@@ -1,0 +1,10 @@
+.echart {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.echarts {
+    width: 400px;
+    height: 300px;
+    margin: 50px 0px;
+}
